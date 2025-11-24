@@ -3,6 +3,21 @@
 !车
 !餐
 
+纳斯达克
+美股
+美联储
+通胀
+PCE
+CPI
+NFP
+失业率
+
+英伟达
+NVIDIA
+黄仁勋
+GPU
+TSM
+
 VST
 能源
 发电
@@ -10,27 +25,20 @@ VST
 Vistra Corp
 CEG
 Constellation Energy Corporation
-TSLA
 AEP
 电力
+核电站
+核能
+
 INTC
 英特尔
-apple
-核电站
-纳斯达克
-美股
 
 特斯拉
 马斯克
+TSLA
 
 微软
 Microsoft
-
-英伟达
-NVIDIA
-黄仁勋
-GPU
-TSM
 
 AMD
 
@@ -46,6 +54,7 @@ sora
 claude
 Anthropic
 
+apple
 iphone
 ipad
 mac
@@ -61,6 +70,3 @@ ai
 
 芯片
 光刻机
-
-核能
-水电站
